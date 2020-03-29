@@ -11,3 +11,5 @@ Homeworks at course "Advanced math" at GeekBrains school.
 [Урок 4. Вебинар. Введение в аналитическую геометрию. Графики на плоскости.](https://github.com/dimireme/gb_advanced_math/blob/master/lesson_4.ipynb)
 
 [Урок 5. Видеоурок. Элементы теории вероятностей.](https://github.com/dimireme/gb_advanced_math/blob/master/lesson_5.ipynb)
+
+[Урок 6. Вебинар. Элементы теории вероятностей.](https://github.com/dimireme/gb_advanced_math/blob/master/lesson_6.ipynb)
